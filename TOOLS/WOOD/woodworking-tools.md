@@ -5,7 +5,7 @@
 Collection of hand and power tools for woodworking projects.
 
 ## DUST ! ! !
-[DUST](DUST.md)
+[DUST](TOOLS/WOOD/DUST.md)
 
 ## Available Tools
 
@@ -13,7 +13,7 @@ Collection of hand and power tools for woodworking projects.
  -  Table-top disk and belt sander
  -  Band Saw
  -  Scroll/Jig Saw
- -  [Plane](./wood-plane.md)
+ -  [Plane](TOOLS/WOOD/wood-plane.md)
 
 ## Tools we do not have
 
@@ -22,7 +22,7 @@ Collection of hand and power tools for woodworking projects.
  -  Planer
 
 ## Training Required
-See [Tool Training](../tool-training.md) for specific tool certifications.
+See [Tool Training](TOOLS/tool-training.md) for specific tool certifications.
 
 ## Best Practices
 - Always cut away from yourself
