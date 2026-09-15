@@ -11,3 +11,4 @@ This is a work in progress, add what you can!
 - [The Space](SPACE.md)
 - [Events](EVENTS.md)
 - [Press](PRESS.md)
+- [Policies](POLICIES/INDEX.md)
