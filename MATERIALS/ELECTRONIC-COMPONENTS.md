@@ -639,7 +639,7 @@ Consider getting:
 - **Current limiting**: Why LEDs need resistors
 
 #### Soldering
-- See [Soldering Tools](../TOOLS/soldering-tools.md)
+- See [Soldering Tools](TOOLS/ELECTRONICS/soldering-tools.md)
 - Practice on scrap before your project
 - Use proper ventilation
 - Good solder joints are shiny and smooth
@@ -713,7 +713,7 @@ Consider getting:
 
 ### Tools & Equipment
 
-Essential tools (see also [Soldering Tools](../TOOLS/soldering-tools.md) and [Multimeters](../TOOLS/multimeters.md)):
+Essential tools (see also [Soldering Tools](TOOLS/ELECTRONICS/soldering-tools.md) and [Multimeters](TOOLS/ELECTRONICS/multimeters.md)):
 - Soldering iron and solder
 - Multimeter
 - Breadboards
@@ -726,8 +726,8 @@ Essential tools (see also [Soldering Tools](../TOOLS/soldering-tools.md) and [Mu
 ### Workshop Resources
 
 #### In the Space
-- [Soldering stations](../TOOLS/soldering-tools.md)
-- [Multimeters](../TOOLS/multimeters.md)
+- [Soldering stations](TOOLS/ELECTRONICS/soldering-tools.md)
+- [Multimeters](TOOLS/ELECTRONICS/multimeters.md)
 - Oscilloscope: [Location to be added]
 - Power supplies: [Location to be added]
 - Function generator: [Location to be added]
